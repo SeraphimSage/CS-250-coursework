@@ -1,3 +1,31 @@
+# CS-230-coursework
+
+## Project Reflection Journal
+
+1. Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+
+   1. In this project I assumed the role of a technology consultant working for Creative Technology Solutions, a client "The Gaming Room" had developed a game that was initially developed as an Android only app. They came wanting advice and recommendations on turning this Android only App to launch on multiple other operating systems, and to define what the specific requirements and chanllenges would be in implementing these changes.
+   2. Their request was to implement an API based approach to provide an platform that multiple different devices could connect to and render the same information in a fast paced game environment where at least 200 different images would need to be relayed to customers and provide a smooth latency free experience for the game users.
+
+2. What did you do particularly well in developing this documentation?
+
+   1. In this documentation I tried to look at what current trends and challenges with different operating systems were and give honest feedback and assess each option in depth.
+
+3. What about the process of working through a design document did you find helpful when developing the code?
+
+   1. While I was working through and developing the code for the project the design documents helped greatly to insure that everything stayed on track and went according to plan.
+
+4. If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+   1. The main thing that I would change on my approach would be to breathe more and not to delay starting the assignment. Much of what I struggled with when I stepped back was fairly easily resolved or I was overthinking too much.
+
+5. How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+
+   1. Coming from a Business Management background I tried to look at this project from this view point where relevant, there are parts that need a computer science approach, but there are also areas that need to be addressed from a business standpoint and trade-offs to many different approaches. In my analyses I tried to measure and weigh these trade-offs in my recommendations.
+
+6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+   1. Something that I would likely implement is to look overall at what the overall objective is meant to be and slowly work on designing from a larger more ambiguous design and refine it. Once an appropriate level of detail has been achieved I would use an iterative design approach and get the application up and running quickly and then solicit client feedback on the process as additional features and optimization are implemented into the design.
+
 # CS-250-coursework
 
 ## Agile Reflection Journal
